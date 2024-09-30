@@ -1,0 +1,8 @@
+1/ 2:40Hours
+2/ 2:30Hours
+3/ 1Hour
+4/ 1Hour
+5/ 3Hour
+
+
+///We use the index of the map as key unique value.
